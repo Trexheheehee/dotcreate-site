@@ -1,0 +1,483 @@
+{
+  "fetched_at": "2026-11-15T16:25:00+05:30",
+  "source": "X API public_metrics via Grok Bot x tools (get_posts_by_ids, search_posts_all). Official posts found from the media source / quoted post of each @pranav_ae project post.",
+  "rule": "One post per film. Client films count the client's official launch post (the account that published the film). Pranav's own reposts/quotes of those films are listed under not_counted_duplicates and excluded. Films with no official post count Pranav's own post.",
+  "summary": {
+    "n": 18,
+    "impressions": 1778866,
+    "likes": 7183,
+    "bookmarks": 5253,
+    "reposts": 1018,
+    "official_n": 11,
+    "official_impressions": 1619952,
+    "own_n": 7,
+    "own_impressions": 158914
+  },
+  "posts": [
+    {
+      "id": "2112613486845120758",
+      "account": "@imagine",
+      "film": "Grok Imagine",
+      "kind": "official_launch",
+      "url": "https://x.com/imagine/status/2112613486845120758",
+      "created_at": "2026-10-20T18:34:40Z",
+      "impressions": 324856,
+      "likes": 687,
+      "bookmarks": 127,
+      "reposts": 89,
+      "note": "Official Grok Imagine account. Pranav post 2112915161770229894 embeds this video."
+    },
+    {
+      "id": "2056778648724603069",
+      "account": "@cyberfund",
+      "film": "cyber•Fund",
+      "kind": "official_launch",
+      "url": "https://x.com/cyberfund/status/2056778648724603069",
+      "created_at": "2026-05-19T16:46:57Z",
+      "impressions": 367536,
+      "likes": 1023,
+      "bookmarks": 655,
+      "reposts": 145,
+      "note": "Pranav post 2056815902096797701 embeds this video."
+    },
+    {
+      "id": "2084323446746411279",
+      "account": "@ProprXYZ",
+      "film": "Propr",
+      "kind": "official_launch",
+      "url": "https://x.com/ProprXYZ/status/2084323446746411279",
+      "created_at": "2026-08-03T17:00:09Z",
+      "impressions": 75894,
+      "likes": 253,
+      "bookmarks": 24,
+      "reposts": 29,
+      "note": "Pranav post 2084339997562618180 embeds this video."
+    },
+    {
+      "id": "2110777355698344088",
+      "account": "@eloscapeHQ",
+      "film": "Eloscape",
+      "kind": "official_launch",
+      "url": "https://x.com/eloscapeHQ/status/2110777355698344088",
+      "created_at": "2026-10-15T16:58:32Z",
+      "impressions": 48811,
+      "likes": 463,
+      "bookmarks": 57,
+      "reposts": 36,
+      "note": "Quoted by Pranav post 2110779360307523679."
+    },
+    {
+      "id": "2066581766366732532",
+      "account": "@lightspeedvp",
+      "film": "Lightspeed Venture Partners",
+      "kind": "official_launch",
+      "url": "https://x.com/lightspeedvp/status/2066581766366732532",
+      "created_at": "2026-06-15T18:01:02Z",
+      "impressions": 17536,
+      "likes": 80,
+      "bookmarks": 36,
+      "reposts": 4,
+      "note": "Quoted by Pranav post 2066612304352059843."
+    },
+    {
+      "id": "2079259498758218094",
+      "account": "@Sajeel_Purewal",
+      "film": "Blueprint",
+      "kind": "founder_launch",
+      "url": "https://x.com/Sajeel_Purewal/status/2079259498758218094",
+      "created_at": "2026-07-20T17:37:49Z",
+      "impressions": 67672,
+      "likes": 775,
+      "bookmarks": 698,
+      "reposts": 57,
+      "video_views": 27649,
+      "media_key": "13_2079259062592520193",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079259062592520193/img/cVq-bYFGBjaXPHua.jpg",
+      "note": "Blueprint launch film (\"Lovable for hardware is here\"), confirmed by Pranav on 16 Nov 2026 as the correct source. Published by the Blueprint founder. Same video as @pranav_ae post 2079453710099612097, which is now listed as a duplicate. Read 16 Nov 2026 via public X reads."
+    },
+    {
+      "id": "2062403304702022117",
+      "account": "@hackerrank",
+      "film": "HackerRank",
+      "kind": "official_launch",
+      "url": "https://x.com/hackerrank/status/2062403304702022117",
+      "created_at": "2026-06-04T05:17:20Z",
+      "impressions": 5219,
+      "likes": 33,
+      "bookmarks": 17,
+      "reposts": 7,
+      "note": "Quoted by Pranav post 2062865496794685440."
+    },
+    {
+      "id": "2119335664135422082",
+      "account": "@cartesia",
+      "film": "Cartesia",
+      "kind": "official_launch",
+      "url": "https://x.com/cartesia/status/2119335664135422082",
+      "created_at": "2026-11-08T07:46:12Z",
+      "impressions": 5215,
+      "likes": 67,
+      "bookmarks": 10,
+      "reposts": 1,
+      "note": "Credit @Thru_18. Quoted by Pranav post 2119342648213504187."
+    },
+    {
+      "id": "2036049830988906927",
+      "account": "@wondercraft_ai",
+      "film": "Wondercraft",
+      "kind": "official_launch",
+      "url": "https://x.com/wondercraft_ai/status/2036049830988906927",
+      "created_at": "2026-03-23T11:58:02Z",
+      "impressions": 466,
+      "likes": 9,
+      "bookmarks": 3,
+      "reposts": 4,
+      "note": "Pranav post 2036460642262196559 (3,473 views) embeds this video; official post counted per rule."
+    },
+    {
+      "id": "2098808823163023689",
+      "account": "@shivst3r",
+      "film": "Shiv brand manifesto",
+      "kind": "creator_launch",
+      "url": "https://x.com/shivst3r/status/2098808823163023689",
+      "created_at": "2026-09-12T17:38:19.000Z",
+      "impressions": 9919,
+      "likes": 201,
+      "bookmarks": 18,
+      "reposts": 11,
+      "note": "Published by @shivst3r; quoted by Pranav post 2098828568000352363. created_at shown is Pranav quote post time (same day)."
+    },
+    {
+      "id": "2050861405566545966",
+      "account": "@pranav_ae",
+      "film": "a16z (Concept / spec ad)",
+      "kind": "own_concept",
+      "url": "https://x.com/pranav_ae/status/2050861405566545966",
+      "created_at": "2026-05-03T08:53:56.000Z",
+      "impressions": 141862,
+      "likes": 1252,
+      "bookmarks": 969,
+      "reposts": 55,
+      "note": "Concept / spec ad, not client work."
+    },
+    {
+      "id": "2039597826733457798",
+      "account": "@pranav_ae",
+      "film": "App launch film",
+      "kind": "own_launch",
+      "url": "https://x.com/pranav_ae/status/2039597826733457798",
+      "created_at": "2026-04-02T06:56:30.000Z",
+      "impressions": 4298,
+      "likes": 127,
+      "bookmarks": 57,
+      "reposts": 3,
+      "note": ""
+    },
+    {
+      "id": "2058844686450840056",
+      "account": "@pranav_ae",
+      "film": "@IAmAndrewKirby",
+      "kind": "own_launch",
+      "url": "https://x.com/pranav_ae/status/2058844686450840056",
+      "created_at": "2026-05-25T09:36:39.000Z",
+      "impressions": 3858,
+      "likes": 95,
+      "bookmarks": 38,
+      "reposts": 2,
+      "note": ""
+    },
+    {
+      "id": "2076326895386558600",
+      "account": "@pranav_ae",
+      "film": "fluked",
+      "kind": "own_launch",
+      "url": "https://x.com/pranav_ae/status/2076326895386558600",
+      "created_at": "2026-07-12T15:24:42.000Z",
+      "impressions": 3137,
+      "likes": 88,
+      "bookmarks": 50,
+      "reposts": 2,
+      "note": ""
+    },
+    {
+      "id": "2114009021468524708",
+      "account": "@pranav_ae",
+      "film": "Studio reel",
+      "kind": "own_reel",
+      "url": "https://x.com/pranav_ae/status/2114009021468524708",
+      "created_at": "2026-10-24T15:00:01.000Z",
+      "impressions": 2715,
+      "likes": 85,
+      "bookmarks": 37,
+      "reposts": 1,
+      "note": ""
+    },
+    {
+      "id": "2102033196380729550",
+      "account": "@pranav_ae",
+      "film": "fifthrender collab",
+      "kind": "own_launch",
+      "url": "https://x.com/pranav_ae/status/2102033196380729550",
+      "created_at": "2026-09-21T13:52:22.000Z",
+      "impressions": 2231,
+      "likes": 39,
+      "bookmarks": 16,
+      "reposts": 2,
+      "note": ""
+    },
+    {
+      "id": "2033187814591139937",
+      "account": "@pranav_ae",
+      "film": "@opencouncil_gr",
+      "kind": "own_launch",
+      "url": "https://x.com/pranav_ae/status/2033187814591139937",
+      "created_at": "2026-03-15T14:25:24.000Z",
+      "impressions": 813,
+      "likes": 21,
+      "bookmarks": 4,
+      "reposts": 1,
+      "note": "created_at approximate"
+    },
+    {
+      "id": "2016224371946188836",
+      "account": "@diminikola0u",
+      "film": "Wondercraft Video",
+      "kind": "founder_launch",
+      "url": "https://x.com/diminikola0u/status/2016224371946188836",
+      "created_at": "2026-01-27T18:58:44Z",
+      "impressions": 696828,
+      "likes": 1885,
+      "bookmarks": 2437,
+      "reposts": 569,
+      "video_views": 58757,
+      "media_key": "13_2016222401806147584",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2016222401806147584/img/QBAgHBTpSl9oEupF.jpg",
+      "note": "Launch film for Wondercraft Video (\"Today AI Video stops being slop\"), 95s, posted by Wondercraft co-founder Dimi Nikolaou. Added 16 Nov 2026 at Pranav's request. Pranav asked for it in place of the Eloscape film, but it is a Wondercraft film, not Eloscape, so Eloscape is kept and this is its own entry. Separate from the Mar 2026 Wondercraft post 2036049830988906927."
+    }
+  ],
+  "not_counted_duplicates": [
+    {
+      "id": "2112915161770229894",
+      "url": "https://x.com/pranav_ae/status/2112915161770229894",
+      "impressions": 5392,
+      "likes": 98,
+      "bookmarks": 48
+    },
+    {
+      "id": "2056815902096797701",
+      "url": "https://x.com/pranav_ae/status/2056815902096797701",
+      "impressions": 8378,
+      "likes": 136,
+      "bookmarks": 101
+    },
+    {
+      "id": "2084339997562618180",
+      "url": "https://x.com/pranav_ae/status/2084339997562618180",
+      "impressions": 5902,
+      "likes": 96,
+      "bookmarks": 53
+    },
+    {
+      "id": "2110779360307523679",
+      "url": "https://x.com/pranav_ae/status/2110779360307523679",
+      "impressions": 1026,
+      "likes": 27,
+      "bookmarks": 5
+    },
+    {
+      "id": "2066612304352059843",
+      "url": "https://x.com/pranav_ae/status/2066612304352059843",
+      "impressions": 7382,
+      "likes": 66,
+      "bookmarks": 39
+    },
+    {
+      "id": "2105313338465128597",
+      "url": "https://x.com/pranav_ae/status/2105313338465128597",
+      "impressions": 1719,
+      "likes": 24,
+      "bookmarks": 3
+    },
+    {
+      "id": "2062865496794685440",
+      "url": "https://x.com/pranav_ae/status/2062865496794685440",
+      "impressions": 2864,
+      "likes": 43,
+      "bookmarks": 17
+    },
+    {
+      "id": "2119342648213504187",
+      "url": "https://x.com/pranav_ae/status/2119342648213504187",
+      "impressions": 1060,
+      "likes": 27,
+      "bookmarks": 10
+    },
+    {
+      "id": "2036460642262196559",
+      "url": "https://x.com/pranav_ae/status/2036460642262196559",
+      "impressions": 3473,
+      "likes": 60,
+      "bookmarks": 30
+    },
+    {
+      "id": "2098828568000352363",
+      "url": "https://x.com/pranav_ae/status/2098828568000352363",
+      "impressions": 2374,
+      "likes": 52,
+      "bookmarks": 21
+    },
+    {
+      "id": "2079453710099612097",
+      "url": "https://x.com/pranav_ae/status/2079453710099612097",
+      "impressions": 4451,
+      "likes": 56,
+      "bookmarks": 35,
+      "note": "Pranav post of the Blueprint launch film (same media 13_2079259062592520193). Counted via the founder post instead."
+    }
+  ],
+  "not_found": [
+    "Whop: no Whop film post by @pranav_ae or @dotcreateX found, and no @whop post could be tied to dotcreate, so nothing counted."
+  ],
+  "previous_version": {
+    "note": "v4.0 total was 279,422 views across 21 @pranav_ae + quoted client posts",
+    "file": "_backup-v4-skeleton/metrics.json"
+  },
+  "replaced": [
+    {
+      "id": "2104984389453238568",
+      "url": "https://x.com/Sajeel_Purewal/status/2104984389453238568",
+      "impressions": 8405,
+      "film": "Blueprint v2 (Sep 2026)",
+      "note": "Previously used as the Blueprint entry. Pranav said it was the wrong source on 16 Nov 2026; replaced by 2079259498758218094. It is a separate, second Blueprint film (Pranav post 2113852259687895254 mentions two Blueprint launch videos), so it still counts toward the launch count but not the views ledger."
+    }
+  ],
+  "headline_views": {
+    "value": "3M",
+    "source": "Stated by Pranav on 16 Nov 2026 and used as given. Not derived from the ledger, which counts one post per film."
+  },
+  "counts": {
+    "counted_at": "2026-11-16",
+    "rule": "a16z and other concept / spec ads are excluded. Studio reel excluded. One launch per distinct film (reposts and quote posts of the same video are not counted again). Individuals and collaborators are launches but not brands.",
+    "brands": {
+      "n": 15,
+      "list": [
+        "Grok Imagine",
+        "Lightspeed Venture Partners",
+        "Whop",
+        "HackerRank",
+        "Cartesia",
+        "cyber•Fund",
+        "Propr",
+        "Wondercraft",
+        "Blueprint",
+        "Eloscape",
+        "Huddle01",
+        "OpenCouncil",
+        "Fluked",
+        "Cooplabs",
+        "The Terminal"
+      ],
+      "notes": "Whop and Cooplabs rest on Pranav's own public statements (no film post found). Excluded as brands: a16z (spec), @IAmAndrewKirby and @shivst3r (individuals), fifthrender (collaborator), the unnamed app."
+    },
+    "launches": {
+      "n": 20,
+      "list": [
+        [
+          "Grok Imagine",
+          "2112613486845120758"
+        ],
+        [
+          "cyber•Fund",
+          "2056778648724603069"
+        ],
+        [
+          "Propr, US launch",
+          "2084323446746411279"
+        ],
+        [
+          "Propr, Builders Grant",
+          "2079231987039056187"
+        ],
+        [
+          "Eloscape",
+          "2110777355698344088"
+        ],
+        [
+          "Lightspeed, Lightwork",
+          "2066581766366732532"
+        ],
+        [
+          "Blueprint, launch",
+          "2079259498758218094"
+        ],
+        [
+          "Blueprint, v2",
+          "2104984389453238568"
+        ],
+        [
+          "HackerRank",
+          "2062403304702022117"
+        ],
+        [
+          "Cartesia",
+          "2119335664135422082"
+        ],
+        [
+          "Wondercraft",
+          "2036049830988906927"
+        ],
+        [
+          "Wondercraft Video launch",
+          "2016224371946188836"
+        ],
+        [
+          "The Terminal",
+          "2072679576871006704"
+        ],
+        [
+          "Huddle01 explainer",
+          "2007298068694348142"
+        ],
+        [
+          "OpenCouncil",
+          "2033187814591139937"
+        ],
+        [
+          "Fluked",
+          "2076326895386558600"
+        ],
+        [
+          "@IAmAndrewKirby",
+          "2058844686450840056"
+        ],
+        [
+          "@shivst3r manifesto",
+          "2098808823163023689"
+        ],
+        [
+          "fifthrender collab",
+          "2102033196380729550"
+        ],
+        [
+          "App launch film",
+          "2039597826733457798"
+        ]
+      ],
+      "notes": "Whop not counted as a launch (no film post found). Cooplabs not counted as a launch (no film post found)."
+    },
+    "brands_display": {
+      "value": "40+",
+      "source": "Stated by Pranav on 16 Nov 2026 and used as given, includes NDA work. The verified public list above has 15."
+    },
+    "videos_display": {
+      "value": "60+",
+      "label": "Videos shipped",
+      "source": "Stated by Pranav on 16 Nov 2026 and used as given (includes NDA work). Replaces the Launches stat in the hero; the verified public launch list above has 20."
+    }
+  },
+  "hero_second_stat": {
+    "label": "Grok Imagine launch",
+    "value": 324856,
+    "post": "2112613486845120758"
+  }
+}

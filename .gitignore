@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+_backup*/
+_b64/
+_model/
+_ref/
+_deploy-body-*.json
+_deploy-manifest*.json
+_chk*.mjs
+*.log
+.DS_Store

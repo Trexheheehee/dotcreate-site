@@ -1,19 +1,21 @@
 /**
  * Canonical site origin and brand constants.
  * Swap SITE_ORIGIN (and nothing else) when a custom domain is connected.
- * Example: export const SITE_ORIGIN = 'https://dotcreate.com';
+ * Production domain: dotcreate.in (www redirects to the apex).
  */
-export const SITE_ORIGIN = 'https://dotcreate.vercel.app';
+export const SITE_ORIGIN = 'https://dotcreate.in';
 
 export const INDEXNOW_KEY = '5822dfd0774626fd360989d44f631c9c';
 
 export const SITE = {
   origin: SITE_ORIGIN,
   name: 'dotcreate',
-  tagline: 'Launch films for startups. Generic is dead.',
-  description: 'dotcreate is an independent studio making launch films and ad creatives for tech, AI and web3 startups. Films for Grok Imagine, Lightspeed and more.',
+  tagline: 'Launch videos for AI, SaaS and web3 startups.',
+  title: 'dotcreate · Launch videos for AI, SaaS and web3 startups',
+  definition: 'dotcreate is a launch film studio that makes launch videos for AI, SaaS and web3 startups.',
+  description: 'dotcreate is a launch film studio making launch videos, product videos and ad creatives for AI, SaaS and web3 startups. Films for Grok Imagine and more.',
   ogTitle: 'dotcreate · Generic is dead.',
-  ogDescription: 'Launch films and ad creatives for tech, AI and web3 startups.',
+  ogDescription: 'Launch videos, product videos and ad creatives for AI, SaaS and web3 startups.',
   ogImage: '/assets/og.jpg',
   ogWidth: 1200,
   ogHeight: 750,
